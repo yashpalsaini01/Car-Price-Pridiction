@@ -91,7 +91,7 @@ Car-Price-Prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/car-price-prediction.git
+git clone https://github.com/yashpalsaini01/car-price-prediction.git
 ```
 
 Navigate to the project folder:
@@ -117,7 +117,7 @@ streamlit run app.py
 ## 🌐 Deployment
 
 The application can be deployed using **Streamlit Community Cloud**:
-
+https://car-price-pridiction-vnjy3tpizan72qfnseabzh.streamlit.app/
 1. Push the project to GitHub.
 2. Visit Streamlit Community Cloud.
 3. Connect your GitHub account.
@@ -129,13 +129,10 @@ The application can be deployed using **Streamlit Community Cloud**:
 
 ## 📷 Application Preview
 
-Add screenshots of your Streamlit application here after deployment.
+Here is a preview image for the app interface:
 
-Example:
+![Car Price Prediction App Preview](screenshot.png)
 
-* Home Page
-* Input Form
-* Prediction Result
 
 ---
 
