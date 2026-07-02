@@ -26,17 +26,26 @@ car_names = [
     'Maruti Suzuki Swift', 'Maruti Suzuki Wagon', 'Toyota Innova 2.0',
     'Renault Lodgy 85', 'Skoda Yeti Ambition', 'Maruti Suzuki Baleno',
     'Renault Duster 110', 'Renault Duster 85', 'Honda City 1.5',
-    'Maruti Suzuki Dzire', 'Honda Amaze', 'Honda Amaze 1.5'
+    'Maruti Suzuki Dzire', 'Honda Amaze', 'Honda Amaze 1.5',
+    'Chevrolet Beat LT', 'BMW 7 Series', 'Mahindra XUV500 W8',
+    'Hyundai i10 Magna', 'Hyundai Verna Fluidic',
+    'Maruti Suzuki Ertiga', 'Honda Amaze 1.2', 'Hyundai i20 Asta',
+    'Maruti Suzuki Eeco', 'Maruti Suzuki Esteem', 'Maruti Suzuki Ritz',
+    'Toyota Etios Liva', 'Chevrolet Spark', 'Nissan Micra XV',
+    'Chevrolet Beat', 'Ford EcoSport Trend', 'Tata Indica V2',
+    'Hindustan Motors Ambassador', 'Toyota Innova 2.5',
+    'Volkswagen Jetta Highline', 'Volkswagen Polo Comfortline',
+    'Volkswagen Polo', 'Mahindra Scorpio', 'Nissan Sunny',
+    'Renault Kwid', 'Chevrolet Spark LT', 'Fiat Punto Emotion',
+    'Hyundai i10 Sportz', 'Chevrolet Beat LS', 'Tata Indigo CS',
+    'Hyundai Eon Era', 'Mahindra XUV500', 'Ford Fiesta', 'Hyundai i20'
 ]
 
 companies = [
-    "Maruti",
-    "Hyundai",
-    "Honda",
-    "Toyota",
-    "Mahindra",
-    "BMW",
-    "Audi"
+  'Hyundai', 'Mahindra', 'Ford', 'Maruti', 'Skoda', 'Audi', 'Toyota',
+    'Renault', 'Honda', 'Datsun', 'Mitsubishi', 'Tata', 'Volkswagen',
+    'Chevrolet', 'Mini', 'BMW', 'Nissan', 'Hindustan', 'Fiat', 'Force',
+    'Mercedes', 'Land', 'Jaguar', 'Jeep', 'Volvo'
 ]
 fuel_types = ["Petrol", "Diesel", "LPG"]
 
