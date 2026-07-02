@@ -13,13 +13,20 @@ st.write("Enter the car details below to predict its selling price.")
 
 
 car_names = [
-    "Maruti Swift",
-    "Hyundai i20",
-    "Honda City",
-    "Toyota Innova",
-    "Mahindra Scorpio",
-    "BMW 3 Series",
-    "Audi A4"
+    "Hyundai Santro Xing",
+    "Mahindra Jeep CL550",
+    "Hyundai Grand i10",
+    "Ford EcoSport Titanium",
+    "Ford Figo",
+    "Hyundai Eon",
+    'AFord EcoSport Ambiente',
+    'Skoda Fabia Classic', 'Maruti Suzuki Stingray',
+    'Hyundai Elite i20', 'Mahindra Scorpio SLE', 'Audi A8', 'Audi Q7',
+    'Mahindra Scorpio S10', 'Hyundai i20 Sportz', 'Maruti Suzuki Vitara', 'Mahindra Bolero DI',
+    'Maruti Suzuki Swift', 'Maruti Suzuki Wagon', 'Toyota Innova 2.0',
+    'Renault Lodgy 85', 'Skoda Yeti Ambition', 'Maruti Suzuki Baleno',
+    'Renault Duster 110', 'Renault Duster 85', 'Honda City 1.5',
+    'Maruti Suzuki Dzire', 'Honda Amaze', 'Honda Amaze 1.5'
 ]
 
 companies = [
